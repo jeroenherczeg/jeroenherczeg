@@ -1,1 +1,11 @@
-PHP, Laravel, Symfony consultant 💼 Code analysis, automation and generation 🕵️‍♂️ Artificial Intelligence 🤖World explorer ✈️Cyberpunk lover 💽
+![profile banner](https://pbs.twimg.com/profile_banners/142658024/1562223957/600x200)
+
+💼 PHP, Laravel, Symfony consultant
+
+🕵️‍Code analysis, automation and generation
+
+🤖 Artificial Intelligence
+
+✈️ World explorer
+
+💽 Cyberpunk lover
