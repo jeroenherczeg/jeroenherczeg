@@ -2,11 +2,11 @@
 
 We weep for the blood of a bird, but not for the blood of a fish. Blessed are those with a voice. If the dolls could speak, no doubt they'd scream, "I didn't want to become human."
 
-💼 PHP, Laravel, Symfony consultant
+💼 Consultant, speaker and 10x developer
 
 🕵️‍ Code analysis, automation and generation
 
-🤖 Artificial Intelligence
+🤖 Artificial intelligence
 
 ✈️ World explorer
 
