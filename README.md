@@ -4,4 +4,4 @@ We weep for the blood of a bird, but not for the blood of a fish. Blessed are th
 
 Head of Engineering at @protoku
 
-Microservices and Kubernetes • Continuous Delivery • Code analysis, automation and generation • Artificial intelligence
+Microservices and kubernetes • Continuous delivery • Code analysis, automation and generation • Artificial intelligence
