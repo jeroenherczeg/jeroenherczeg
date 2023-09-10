@@ -2,6 +2,4 @@
 
 We weep for the blood of a bird, but not for the blood of a fish. Blessed are those with a voice. If the dolls could speak, no doubt they'd scream, "I didn't want to become human."
 
-Head of Engineering at @protoku
-
 Microservices and kubernetes • Continuous delivery • Code analysis, automation and generation • Artificial intelligence
