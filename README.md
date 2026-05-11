@@ -1,16 +1,19 @@
-![profile banner](https://pbs.twimg.com/profile_banners/142658024/1562223957)
+![profile banner](https://pbs.twimg.com/profile_banners/142658024/1778506483)
 
-_We weep for the blood of a bird, but not for the blood of a fish. Blessed are those with a voice. If the dolls could speak, no doubt they'd scream, "I didn't want to become human."_
+Senior software engineer building AI systems for production.
 
----
+I have 20 years of engineering experience across software platforms, distributed systems, microservices, Kubernetes, and product teams. My current work focuses on retrieval-augmented generation, AI agent orchestration, and practical AI engineering.
 
-Senior software engineer. Twenty years of engineering experience, now applied to building AI systems for production.
+Most recently, I contributed agents and orchestration work to the Google + BBC AI Agents demo at IBC2025, winner of the Broadcast Tech Innovation Award.
 
-  **Recent work:** [Award-winning AI agent orchestration with Google and BBC](https://github.com/google/virtual-broadcast-production-assistant/commit/a28153ed7e069237ef3042a4b290fba7baf7524b) for the IBC2025 AI Agent Assistants demo (winner of the Broadcast Tech Innovation Award).
+I'm currently writing [**Retrieval-Augmented Generation: An Engineer's Guide to Building RAG Systems with Your Own Data**](https://leanpub.com/retrieval-augmented-generation) on Leanpub.
 
-  **Currently writing:** [*Retrieval-Augmented Generation: An Engineer's Guide to Building RAG Systems with Your Own Data*](https://leanpub.com/retrieval-augmented-generation).
+I write about practical AI engineering at [herczeg.be/blog](https://herczeg.be/blog).
 
-  **Writing on:** [herczeg.be/blog](https://herczeg.be/blog) — practical AI engineering, production systems, and what
-  actually works at scale.
+## Working on
 
-  **Topics I work on:** RAG • AI agent orchestration • Production AI • Distributed systems • Kubernetes
+- Retrieval-augmented generation
+- AI agent orchestration
+- Production AI systems
+- Evaluation and observability for RAG
+- Distributed systems and Kubernetes
