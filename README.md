@@ -6,7 +6,7 @@ I have 20 years of engineering experience across software platforms, distributed
 
 Most recently, I contributed agents and orchestration work to the Google + BBC AI Agents demo at IBC2025, winner of the Broadcast Tech Innovation Award.
 
-I'm currently writing [**Retrieval-Augmented Generation: An Engineer's Guide to Building RAG Systems with Your Own Data**](https://leanpub.com/retrieval-augmented-generation) on Leanpub.
+I wrote [**Retrieval-Augmented Generation: An Engineer's Guide to Building RAG Systems with Your Own Data**](https://leanpub.com/retrieval-augmented-generation) now available on Leanpub.
 
 I write about practical AI engineering at [herczeg.be/blog](https://herczeg.be/blog).
 
